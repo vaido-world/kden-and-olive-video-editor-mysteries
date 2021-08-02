@@ -31,3 +31,7 @@ Usage: olive-editor.exe [options] [project]
 
 
 ```
+
+
+### Importing project via Command Line Interface
+`olive-editor.exe "C:\Users\Juozas\Videos\projectFile.ove"`
